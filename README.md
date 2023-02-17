@@ -1,10 +1,12 @@
-### LANDSCAPE GENOMICS PIPELINE IN R ###
-### PART 4 - LOCAL ADAPTATION ANALYSES - IDENTIFICATION OF CANDIDATES LOCI UNDER SELECTION ###
+# Part 4 - Local Adaptation Analyses - Identification of Candidates Loci Under Selection
 
-This suit of scripts were developed based on LanGen_pipeline from @rojaff/LanGen_pipeline
+This suit of scripts were developed based on [LanGen_pipeline](https://github.com/rojaff/LanGen_pipeline)
 
-Scripts in R for different analyses of Landscape Genomics using SNPS, VCF, or Genind objects. These scripts perform the following steps:
+For a similar pipeline without using *VCFtools v.0.1.16*, check our [Populational Genomics Pipeline](https://github.com/jdalapicolla/PopGenPipe)
 
+&nbsp;
+
+## Scripts:
 <b>1.</b> Filter datasets according to environmental/phenotype variables for GEA (Genome-Environment Association) and GPA (Genome-Phenotype Association) studies.
 
 <b>2.</b> Predict values of a variable in the case Pilocarpine, using Machine Learning Algorithms.
@@ -34,10 +36,12 @@ Scripts in R for different analyses of Landscape Genomics using SNPS, VCF, or Ge
 <b>10.</b> Allele frequency heatmap using candidate SNPs for Pilocarpine in each population.
 
 
+&nbsp;
 
+[INITIAL PAGE](https://github.com/jdalapicolla/LanGen_pipeline_version2)
 
-## PART 1 - GENETIC STRUCTURE AND GENETIC DIVERSITY https://github.com/jdalapicolla/LanGen_pipeline_version2
-## PART 2 - ISOLATION BY DISTANCE AND FINE-SCALE SPATIAL GENETIC STRUCTURE https://github.com/jdalapicolla/IBD_models.R
-## PART 3 - ISOLATION BY RESISTANCE USING MLPE MODELS - https://github.com/jdalapicolla/MLPE.R
-## PART 4 - LOCAL ADAPTATION ANALYSES - IDENTIFICATION OF CANDIDATES LOCI UNDER SELECTION - https://github.com/jdalapicolla/LOCAL_ADAPTATION.R
-    
+[PART 1 - GENETIC STRUCTURE AND GENETIC DIVERSITY](https://github.com/jdalapicolla/LanGen_pipeline_version2/tree/master/PART1)
+
+[PART 2 - ISOLATION BY DISTANCE AND FINE-SCALE SPATIAL GENETIC STRUCTURE](https://github.com/jdalapicolla/IBD_models.R)
+
+[PART 3 - ISOLATION BY RESISTANCE USING MLPE MODELS](https://github.com/jdalapicolla/MLPE.R)
